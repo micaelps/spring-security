@@ -1,0 +1,2 @@
+INSERT INTO USER_SYSTEM(created_at,email, password) VALUES('2021-03-01','m@email.com', '$2a$10$Ix3dG9Oe34PFjphWi8vs.eF6gBXUZJ5sOb2jJzgJlTctKJF/r2uiq');
+INSERT INTO USER_SYSTEM(created_at,email, password) VALUES('2021-03-01','m2@email.com', '$2a$10$Ix3dG9Oe34PFjphWi8vs.eF6gBXUZJ5sOb2jJzgJlTctKJF/r2uiq');
